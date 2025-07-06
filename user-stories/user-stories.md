@@ -1,0 +1,5 @@
+- As a guest, I want to register so that I can book properties.
+- As a host, I want to add a property so that others can book it.
+- As a user, I want to send messages to others so I can ask questions.
+- As an admin, I want to manage listings to keep the platform safe.
+- As a guest, I want to leave reviews to share my experience.
